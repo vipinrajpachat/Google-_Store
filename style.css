@@ -1,0 +1,181 @@
+.header{
+    width: 100%;
+    height: 292px;
+}
+body{
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    height: 86px;
+    padding-top: 1px;
+    display: flex;
+    justify-content: space-between;
+    font-size: larger;
+}
+.nvbar{
+    width: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.navbr{
+    width: 100px;
+    height: 86px;
+    color: yellow;
+    display: flex;
+}
+.wlcmbox{
+    width: 920px;
+    height: 136px;
+   
+    margin-left: 390px;
+    text-align: center;
+    padding-top: 20px;
+    
+
+}
+.wlcmbox h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: sans-serif ;
+    margin: 0;
+}
+.wlcmbox h2{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: sans-serif ;
+    color: green;
+    margin: 0;
+}
+.smlbox{
+    width: 250px;
+    height: 102px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.smlbox input{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+.smlbox p{
+    margin-left: 35px;
+    font-size: 18px;
+}
+.smlbox label{
+    font-size: 18px;
+}
+.bigone{
+    display: flex;
+    width: 1798px;
+    height: 2504px;
+    /* background-color: black; */
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+  }
+
+  .card{
+    width: 400px;
+    height: 450px;
+    margin-left: 20px;
+  }
+  .card_main{
+    float: left;
+  }
+.bigrgtside{
+   
+    flex-wrap: wrap;
+    width: 1456px;
+    height: 2504px;
+    margin-left: 90px;
+    margin-top: 80px;
+}
+.img2{
+    height: 330px;
+}
+.card img{
+    height: 330px;
+}
+
+.lftside{
+    width: 342px;
+    height: 2504px;
+    margin-top: 80px;
+}
+.lstdwn{
+    width: 85%;
+    height: 334px;
+    margin-left: 96px;
+    display: flex;
+    flex-direction: column;
+}
+.lstbgbox{
+    width: 84%;
+    height: 282px;
+    margin-left: 126px;
+    display: flex;
+   justify-content: right;
+}
+.snglbx{
+    width: 164px;
+    height: 114px;
+}
+.sln{
+    font-size: 20px;
+}
+.trplbx{
+    width: 164px;
+    height: 114px;
+
+}
+.trpln{
+    font-size: 18px;
+}
+.trplbx li{
+    list-style: none;
+}
+.footer{
+display: flex;
+justify-content: space-between;
+    width:86% ;
+    height: 52px;
+    margin-left: 96px;
+}
+.twtr{
+ font-size: x-large;
+}
+.ftrlft i{
+    padding-left: 15px;
+}
+.triclr{
+    width: 60px;
+}
+.ftrrght li{
+    
+    text-decoration: none;
+}
+.ftrlft{
+    width: 300px;
+    height: 52px;
+
+}
+.ftrrght{
+    width: 800px;
+    height: 52px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.frl{
+    width: 70px;
+    height: 52px;
+}
+.frr ul{
+    display: flex;
+    justify-content: space-between;
+}
+.frr li{
+    list-style: none;
+    margin-right: 15px;
+}
